@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Attraction",
+        "Marker Icon": "building",
+        "Marker Color": "blue",
+        "Icon Color": "white",
+        "Custom Size": "",
+        "Name": "Exploratorium",
+        "Image": "",
+        "Description": "",
+        "Location": "Pier 15, The Embarcadero & Green St, San Francisco, CA 94111",
+        "Found": "❒ Pier 15, The Embarcadero & Green St., San Francisco, CA 94111, USA",
+        "Quality": "Match",
+        "Source": "Google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3986299,
+          37.8008433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Attraction",
+        "Marker Icon": "building",
+        "Marker Color": "blue",
+        "Icon Color": "white",
+        "Custom Size": "",
+        "Name": "San Francisco Museum of Modern Art",
+        "Image": "",
+        "Description": "",
+        "Location": "151 3rd St, San Francisco, CA 94103",
+        "Found": "151 3RD ST, SAN FRANCISCO, CA, 94103",
+        "Quality": "Exact",
+        "Source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40117,
+          37.785587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Attraction",
+        "Marker Icon": "building",
+        "Marker Color": "blue",
+        "Icon Color": "white",
+        "Custom Size": "",
+        "Name": "Transamerica Pyramid",
+        "Image": "",
+        "Description": "",
+        "Location": "600 Montgomery Street, San Francisco, CA 94111",
+        "Found": "600 MONTGOMERY ST, SAN FRANCISCO, CA, 94111",
+        "Quality": "Match",
+        "Source": "US Census"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40314,
+          37.7947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Transit",
+        "Marker Icon": "train",
+        "Marker Color": "black",
+        "Icon Color": "white",
+        "Custom Size": "",
+        "Name": "BART Embarcadero Station",
+        "Image": "",
+        "Description": "",
+        "Location": "298 Market Street, San Francisco, CA 94111",
+        "Found": "298 Market St, San Francisco, CA 94105, USA",
+        "Quality": "Match",
+        "Source": "Google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3970874,
+          37.7928795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Group": "Transit",
+        "Marker Icon": "ship",
+        "Marker Color": "black",
+        "Icon Color": "white",
+        "Custom Size": "",
+        "Name": "Ferry Building",
+        "Image": "",
+        "Description": "",
+        "Location": "1 Ferry Bld, San Francisco, CA 94111",
+        "Found": "San Francisco Ferry Bldg, 1 Sausalito - San Francisco Ferry Bldg, San Francisco, CA 94111, USA",
+        "Quality": "Match",
+        "Source": "Google"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3933208,
+          37.7955703
+        ]
+      }
+    }
+  ]
+}
